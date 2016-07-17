@@ -1,0 +1,2 @@
+# uzb
+uzb_programm
